@@ -1,2 +1,4 @@
-# Mapa
+# MapaRA200343665
 exemplificarIC
+Primeiro foi criada uma conta no github com RA 200343665, em seguida após a conta ser criada, foi criado um repositório seguindo o passo a passo disponível no tutorial "hello-world". Clica em New repository, clica em Public, clica em add a README file. Logo em seguida no botão CREATE repository. Clica no botão main para criar um branch, depois na caixa de texto digite: readme-edits. Depois clicar no botão editar o arquivo. Vai ser criado um arquivo de branch README.md sendo possível criar alterações criando-se um texto e salvando as alterações no botão commit changes... Ao salvar as alterações no arquivo README no branch "readme-edits" esse branch terá o conteúdo diferente do branch.
+O tutorial GitHub criar um branch refere-se a técnica denominada de ramificação que é a maneira de trabalhar em diferentes versões de um repositório de uma só vez. Quando se cria uma ramificação fora da ramificação principal, está sendo feita uma cópia do main naquele momento. Se algúem fizer alterações na ramificação principal enquanto você trabalha na cópia, você receberá essas atualizações.
